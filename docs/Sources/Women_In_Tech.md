@@ -1,1 +1,0 @@
-this is about women in tech
