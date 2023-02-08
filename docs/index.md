@@ -1,11 +1,13 @@
-# Obsidian Notes
 
-Publish your public notes with MkDocs
+Nat's personal memex
 
-## Hello World!
+## Map of Content[¶](https://natmeng.github.io/Obsedian/#map-of-content "Permanent link")
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+## Sources[¶](https://natmeng.github.io/Obsedian/#sources "Permanent link")
 
-The folders in `/docs` appear as the main sections on the navigation bar.
+-   [The Enigma Machine](https://natmeng.github.io/Obsedian/sources/Enigma_Machine/)
+-   [Encryption](https://natmeng.github.io/Obsedian/sources/Encryption/)
+-   [Women in Tech](https://natmeng.github.io/Obsedian/sources/Women_In_Tech/)
+-   [First Computer](https://natmeng.github.io/Obsedian/sources/The_First_Computer/)
+-   [The Internet](https://natmeng.github.io/Obsedian/sources/Enigma Machine/The_Internet/)
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
