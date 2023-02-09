@@ -1,6 +1,8 @@
 tags:: #atomic projects::[](https://natmeng.github.io/memx2/atomic/Enigma/)
 
-
+- Enigma is easy to easy to explain, but difficult to break
+- Inadvertantly led to the development of the first programmable computer
+- Very very ancient example of cryptography (like Encryption article stated)
 
 ---
 
