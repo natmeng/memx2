@@ -5,4 +5,4 @@
 
 How many more women have gone under the rug and have accomplished gerat things in this field?
 
-[Women In Tech](https://natmeng.github.io/memx2/sources/Women_In_Tech/)
+[Source for Women In Tech](https://natmeng.github.io/memx2/sources/Women_In_Tech/)

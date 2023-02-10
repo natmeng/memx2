@@ -5,4 +5,4 @@
 
 How much of an effect does the military have on the evolution of the internet and computing in general, as 3 of the 5 articles mentioned involve the military in some way shape or form
 
-[First Computer](https://natmeng.github.io/memx2/sources/The_First_Computer/)
+[Source for First Computer](https://natmeng.github.io/memx2/sources/The_First_Computer/)

@@ -8,4 +8,4 @@ If the team at bletchley park was never able to break enigma, how would modern c
 
 ### Citational Information[¶](https://natmeng.github.io/memx2/ideas/Enigma/#reference "Permanent link"#citational-information "Permanent link")
 
-[Enigma](https://natmeng.github.io/memx2/sources/Enigma_Machine/)
+[Source for enigma](https://natmeng.github.io/memx2/sources/Enigma_Machine/)
