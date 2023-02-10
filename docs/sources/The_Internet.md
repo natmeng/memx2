@@ -19,7 +19,7 @@ This article goes over the history of the internet and its invention, from its s
 
 ### Links[¶](https://natmeng.github.io/memx2/sources/The_Internet/#links "Permanent link")
 
-[extracted public annotations from @bushvannevarWeMayThink1945](https://shawngraham.github.io/hist1900c-demo-memex/thoughts/extracted%20public%20annotations%20from%20%40bushvannevarWeMayThink1945/)
+[Extracted annotations for The History of the Internet](https://natmeng.github.io/memx2/annotations/The_Internet/)
 
 
 

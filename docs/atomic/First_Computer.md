@@ -14,4 +14,5 @@ tags:: #atomic projects::[](https://natmeng.github.io/memx2/atomic/First_Compute
 
 ### Related Links[¶](https://natmeng.github.io/memx2/atomic/First_Computer/#related-links "Permanent link")
 
+[Extracted Annotations for ENIAC](https://natmeng.github.io/memx2/annotations/First_Computer/) 
 [Enigma](https://natmeng.github.io/memx2/sources/Enigma_Machine/) 

@@ -13,5 +13,6 @@ tags:: #atomic projects::[](https://natmeng.github.io/memx2/atomic/Encryption/)
 [Encryption](https://natmeng.github.io/memx2/sources/Encryption/) 
 
 ### Related Links[¶](https://natmeng.github.io/memx2/atomic/Encryption/#related-links "Permanent link")
+[Extracted annotations for Encryption](https://natmeng.github.io/memx2/annotations/Encryption/) 
 
 [Enigma](https://natmeng.github.io/memx2/sources/Enigma_Machine/) 

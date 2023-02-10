@@ -20,7 +20,7 @@ Ada Lovelace is known as the first computer programmer, and is recognized every 
 
 ### Links[¶](https://natmeng.github.io/memx2/sources/Women_In_Tech/#links "Permanent link")
 
-[extracted public annotations from @bushvannevarWeMayThink1945](https://shawngraham.github.io/hist1900c-demo-memex/thoughts/extracted%20public%20annotations%20from%20%40bushvannevarWeMayThink1945/)
+[Extracted annotations for The First Programmer](https://natmeng.github.io/memx2/annotations/Women_In_Tech/) 
 
 
 

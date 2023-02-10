@@ -13,3 +13,5 @@ tags:: #atomic projects::[](https://natmeng.github.io/memx2/atomic/Women_In_Tech
 
 ### Related Links[¶](https://natmeng.github.io/memx2/atomic/Women_In_Tech/#related-links "Permanent link")
 
+[Annotation for The First Programmer](https://natmeng.github.io/memx2/annotations/Women_In_Tech/) 
+

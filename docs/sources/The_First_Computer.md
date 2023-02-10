@@ -20,7 +20,7 @@ The ENIAC (Electronic Numerical Integrator and Computer) was the first programma
 
 ### Links[¶](https://natmeng.github.io/memx2/sources/The_First_Computer/#links "Permanent link")
 
-[extracted public annotations from @bushvannevarWeMayThink1945](https://shawngraham.github.io/hist1900c-demo-memex/thoughts/extracted%20public%20annotations%20from%20%40bushvannevarWeMayThink1945/)
+[Extracted Annotations for ENIAC](https://natmeng.github.io/memx2/annotations/First_Computer/) 
 
 
 

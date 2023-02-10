@@ -20,7 +20,7 @@ The Enigma machine is an encryption device that was used to encrpt messages by t
 
 ### Links[¶](https://natmeng.github.io/memx2/sources/Enigma_Machine/#links "Permanent link")
 
-[extracted public annotations from @bushvannevarWeMayThink1945](https://shawngraham.github.io/hist1900c-demo-memex/thoughts/extracted%20public%20annotations%20from%20%40bushvannevarWeMayThink1945/)
+[Extraced Annotations for Enigma](https://natmeng.github.io/memx2/annotations/Enigma/) 
 
 
 

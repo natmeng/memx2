@@ -20,7 +20,7 @@ This article goes over the history of cryptography, and how it is used today in 
 
 ### Links[¶](https://natmeng.github.io/memx2/sources/Encryption/#links "Permanent link")
 
-[extracted public annotations from @bushvannevarWeMayThink1945](https://shawngraham.github.io/hist1900c-demo-memex/thoughts/extracted%20public%20annotations%20from%20%40bushvannevarWeMayThink1945/)
+[Extracted annotations for Encryption](https://natmeng.github.io/memx2/annotations/Encryption/) 
 
 
 
