@@ -1,32 +1,34 @@
 ---
 doc_type: hypothesis-highlights
 url: >-
-  https://www.weforum.org/agenda/2019/02/a-brief-history-of-cryptography-and-why-it-matters/
+  https://www.theguardian.com/technology/2019/oct/09/alexa-are-you-invading-my-privacy-the-dark-side-of-our-voice-assistants
 ---
 
-# A brief history of cryptography and why it matters
+# 'Alexa, are you invading my privacy?' – the dark side of our voice assistants
 
 ## Metadata
-- Author: [weforum.org]()
-- Title: A brief history of cryptography and why it matters
-- Reference: https://www.weforum.org/agenda/2019/02/a-brief-history-of-cryptography-and-why-it-matters/
+- Author: [theguardian.com]()
+- Title: 'Alexa, are you invading my privacy?' – the dark side of our voice assistants
+- Reference: https://www.theguardian.com/technology/2019/oct/09/alexa-are-you-invading-my-privacy-the-dark-side-of-our-voice-assistants
 - Category: #article
 
 ## Page Notes
 ## Highlights
-- *It was a view that garnered much support in the public domain but which Apple’s CEO Tim Cook called a “potentially” chilling breach of privacy: “The same engineers who built strong encryption into the iPhone to protect our users would, ironically, be ordered to weaken those protections and make our users less safe.”* — [Updated on 2023-02-09 17:25:22](https://hyp.is/pH596qjIEe2gfpM_Z9iFjA/www.weforum.org/agenda/2019/02/a-brief-history-of-cryptography-and-why-it-matters/) — Group: #Public
-    - Annotation: The government wants to be able to access anything they want/need, whereas the tech CEO's want to withhold privacy as much as they can
-- *The next stage in the development of encryption may involve the use of quantum computers, which will add layers of complexity that are currently not possible. But until quantum cryptography becomes commonplace, there is a fear that this new groundbreaking technology could render current encryption next-to-useless.* — [Updated on 2023-02-09 17:25:23](https://hyp.is/pR49-KjIEe2RHvvlFrU8cw/www.weforum.org/agenda/2019/02/a-brief-history-of-cryptography-and-why-it-matters/) — Group: #Public
-    - Annotation: What will happen when quantum computers become the norm? How will it effect the different encryption processes that would be then found useless affect day to day life?
-- *Cryptography is at the heart of all secure digital communications – the emails you send, the websites you visit (well, a growing proportion of them) and the apps you use. It allows for data to be scrambled and rendered unreadable by everyone except the intended recipient*. — [Updated on 2023-02-09 17:25:25](https://hyp.is/piGyZqjIEe26TZNKTyp7Iw/www.weforum.org/agenda/2019/02/a-brief-history-of-cryptography-and-why-it-matters/) — Group: #Public
-    - Annotation: Shows how much cryptography is involved in our day to day life
-- *On the morning of 2 December 2015, Syed Rizwan Farook and his wife Tashfeen Malik shot and killed 14 people in the Californian city of San Bernardino. Approximately 20 others were injured. The attackers were tracked down later that day and in an ensuing gun battle were both killed. Determined to find answers regarding the killers’ motives, the FBI soon sought help from Apple to unlock an iPhone belonging to Farook. Apple, however, refused to comply.* — [Updated on 2023-02-09 17:25:26](https://hyp.is/pr-8LKjIEe2-bsMPT-m3Rg/www.weforum.org/agenda/2019/02/a-brief-history-of-cryptography-and-why-it-matters/) — Group: #Public
-    - Annotation: Brings into question the ethos of cryptography, should Apple have unlocked the phone for the FBI, or were they right to withheld that information?
-- “*The earliest known text containing components of cryptography originates in the Egyptian town Menet Khufu on the tomb of nobleman Khnumhotep II nearly 4,000 years ago.”* — [Updated on 2023-02-09 17:25:27](https://hyp.is/p66WvKjIEe21-1-NjKn82A/www.weforum.org/agenda/2019/02/a-brief-history-of-cryptography-and-why-it-matters/) — Group: #Public
-    - Annotation: Shows how long cryptography has been around and a part of human life
-- *The Spartans were also known to have developed a form of cryptography, based on wrapping parchment around a polygonal cylinder and Julius Caesar used a basic cypher to encode his messages – moving along the alphabet by a pre-agreed number of letters.* — [Updated on 2023-02-09 17:25:28](https://hyp.is/qFD6LqjIEe21_L8UOptO_Q/www.weforum.org/agenda/2019/02/a-brief-history-of-cryptography-and-why-it-matters/) — Group: #Public
-    - Annotation: Juias Ceasar's cipher is also used to this day
-- *the practice of cryptography actually goes back thousands of years. One of the earliest examples dates back to around 200 BCE and was devised by the Greek historian Polybius. In a Polybius square, letters fill out a grid of 25 spaces and each letter is identified by its coordinates in the square.* — [Updated on 2023-02-09 17:25:31](https://hyp.is/qc7TdqjIEe26KD9wS5eIbQ/www.weforum.org/agenda/2019/02/a-brief-history-of-cryptography-and-why-it-matters/) — Group: #Public
-    - Annotation: This method is still very much used today
+- It appeared to be regurgitating requests to book train tickets for journeys he had already taken and to record TV shows that he had already watched. Josephson had not said the wake word – “Alexa” – to activate it and nothing he said would stop it. It was, he says, “Kafkaesque”. — [Updated on 2023-03-06 18:26:03](https://hyp.is/QxCgbLx2Ee2KcvOd96zMZg/www.theguardian.com/technology/2019/oct/09/alexa-are-you-invading-my-privacy-the-dark-side-of-our-voice-assistants) — Group: #Public
+    - Annotation: A precursor to the rest of the article subject
+- This was especially interesting because Josephson (not his real name) was a former Amazon employee. Three years earlier, he had volunteered to sit in a room reciting a string of apparently meaningless phrases into a microphone for an undisclosed purpose — [Updated on 2023-03-06 18:26:47](https://hyp.is/XSK0kLx2Ee2qBvcINiz2tg/www.theguardian.com/technology/2019/oct/09/alexa-are-you-invading-my-privacy-the-dark-side-of-our-voice-assistants) — Group: #Public
+    - Annotation: He himself worked at amazon
+- When the Dot’s outburst subsided, he unplugged it and deposited it in the bin. “I felt a bit foolish,” he says. “Having worked at Amazon, and having seen how they used people’s data, I knew I couldn’t trust them.” — [Updated on 2023-03-06 18:27:12](https://hyp.is/bCXZIrx2Ee2XhR-3s1rpBA/www.theguardian.com/technology/2019/oct/09/alexa-are-you-invading-my-privacy-the-dark-side-of-our-voice-assistants) — Group: #Public
+    - Annotation: As a former amazon worker, he knew he couldn't trust them
+- Last year, an Amazon customer in Germany was mistakenly sent about 1,700 audio files from someone else’s Echo, providing enough information to name and locate the unfortunate user and his girlfriend. (Amazon attributed this “unfortunate mishap” to human error.) — [Updated on 2023-03-06 18:27:56](https://hyp.is/hl_vJrx2Ee2vJ__rNeTj9Q/www.theguardian.com/technology/2019/oct/09/alexa-are-you-invading-my-privacy-the-dark-side-of-our-voice-assistants) — Group: #Public
+    - Annotation: Another strange occurrence of Alexa going 'rogue'
+- In a statement, Amazon said that the Echo must have misheard the wake word, misheard a request to send a message, misheard a name in its contacts list and then misheard a confirmation to send the message, all during a conversation about hardwood floors. Not great, Alexa. — [Updated on 2023-03-06 18:28:39](https://hyp.is/oBNC7Lx2Ee2uOrddKLDZdg/www.theguardian.com/technology/2019/oct/09/alexa-are-you-invading-my-privacy-the-dark-side-of-our-voice-assistants) — Group: #Public
+    - Annotation: Clearly these are very weak excuses that Amazon gives for these strange occurances
+- This year has been particularly tricky. Over the past six months, Bloomberg, the Guardian, Vice News and the Belgian news channel VRT have gradually revealed that all the big five have been using human contractors to analyse a small percentage of voice-assistant recordings. Although the recordings are anonymised, they often contain enough information to identify or embarrass the user – particularly — [Updated on 2023-03-06 18:30:15](https://hyp.is/2P6ZHLx2Ee2ak-dgi1eb-w/www.theguardian.com/technology/2019/oct/09/alexa-are-you-invading-my-privacy-the-dark-side-of-our-voice-assistants) — Group: #Public
+    - Annotation: Even anonymous voice-assistant recordings can be used to identify the user
+- His own Echo would wake up unprompted. Recordings began showing up as evidence in court cases. The FBI refused to confirm or deny that it was using Alexa for surveillance purposes. “It became increasingly clear to me that the privacy watchdogs were right,” he says. “It is, at base, a wiretapping device.” — [Updated on 2023-03-06 18:31:14](https://hyp.is/_Few2Lx2Ee2uyZefB9OvXQ/www.theguardian.com/technology/2019/oct/09/alexa-are-you-invading-my-privacy-the-dark-side-of-our-voice-assistants) — Group: #Public
+    - Annotation: It can be used by the government for surveillance quite easily
+- Kavenna worries that, far from legislating to protect user privacy, US states will seek to access voice-assistant recordings in the name of crime prevention and national security. Last year, a judge in New Hampshire made headlines by ordering Amazon to submit Echo recordings of a double murder to investigators. “It puts them in a very complicated position between their customers and the government,” Kavenna says. “We’re very dependent on the political regime.” — [Updated on 2023-03-06 18:33:48](https://hyp.is/WFqcfrx3Ee2_Izvy_bgTIw/www.theguardian.com/technology/2019/oct/09/alexa-are-you-invading-my-privacy-the-dark-side-of-our-voice-assistants) — Group: #Public
+    - Annotation: This is similar to the ethos I spoke about in Encryption
 
 

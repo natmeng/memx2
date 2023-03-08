@@ -1,32 +1,33 @@
 ---
 doc_type: hypothesis-highlights
-url: >-
-  https://www.weforum.org/agenda/2019/02/a-brief-history-of-cryptography-and-why-it-matters/
+url: 'https://knowledge.wharton.upenn.edu/article/data-shared-sold-whats-done/'
 ---
 
-# A brief history of cryptography and why it matters
+# Your Data Is Shared and Sold...What’s Being Done About It? - Knowledge@Wharton
 
 ## Metadata
-- Author: [weforum.org]()
-- Title: A brief history of cryptography and why it matters
-- Reference: https://www.weforum.org/agenda/2019/02/a-brief-history-of-cryptography-and-why-it-matters/
+- Author: [knowledge.wharton.upenn.edu]()
+- Title: Your Data Is Shared and Sold...What’s Being Done About It? - Knowledge@Wharton
+- Reference: https://knowledge.wharton.upenn.edu/article/data-shared-sold-whats-done/
 - Category: #article
 
 ## Page Notes
 ## Highlights
-- *It was a view that garnered much support in the public domain but which Apple’s CEO Tim Cook called a “potentially” chilling breach of privacy: “The same engineers who built strong encryption into the iPhone to protect our users would, ironically, be ordered to weaken those protections and make our users less safe.”* — [Updated on 2023-02-09 17:25:22](https://hyp.is/pH596qjIEe2gfpM_Z9iFjA/www.weforum.org/agenda/2019/02/a-brief-history-of-cryptography-and-why-it-matters/) — Group: #Public
-    - Annotation: The government wants to be able to access anything they want/need, whereas the tech CEO's want to withhold privacy as much as they can
-- *The next stage in the development of encryption may involve the use of quantum computers, which will add layers of complexity that are currently not possible. But until quantum cryptography becomes commonplace, there is a fear that this new groundbreaking technology could render current encryption next-to-useless.* — [Updated on 2023-02-09 17:25:23](https://hyp.is/pR49-KjIEe2RHvvlFrU8cw/www.weforum.org/agenda/2019/02/a-brief-history-of-cryptography-and-why-it-matters/) — Group: #Public
-    - Annotation: What will happen when quantum computers become the norm? How will it effect the different encryption processes that would be then found useless affect day to day life?
-- *Cryptography is at the heart of all secure digital communications – the emails you send, the websites you visit (well, a growing proportion of them) and the apps you use. It allows for data to be scrambled and rendered unreadable by everyone except the intended recipient*. — [Updated on 2023-02-09 17:25:25](https://hyp.is/piGyZqjIEe26TZNKTyp7Iw/www.weforum.org/agenda/2019/02/a-brief-history-of-cryptography-and-why-it-matters/) — Group: #Public
-    - Annotation: Shows how much cryptography is involved in our day to day life
-- *On the morning of 2 December 2015, Syed Rizwan Farook and his wife Tashfeen Malik shot and killed 14 people in the Californian city of San Bernardino. Approximately 20 others were injured. The attackers were tracked down later that day and in an ensuing gun battle were both killed. Determined to find answers regarding the killers’ motives, the FBI soon sought help from Apple to unlock an iPhone belonging to Farook. Apple, however, refused to comply.* — [Updated on 2023-02-09 17:25:26](https://hyp.is/pr-8LKjIEe2-bsMPT-m3Rg/www.weforum.org/agenda/2019/02/a-brief-history-of-cryptography-and-why-it-matters/) — Group: #Public
-    - Annotation: Brings into question the ethos of cryptography, should Apple have unlocked the phone for the FBI, or were they right to withheld that information?
-- “*The earliest known text containing components of cryptography originates in the Egyptian town Menet Khufu on the tomb of nobleman Khnumhotep II nearly 4,000 years ago.”* — [Updated on 2023-02-09 17:25:27](https://hyp.is/p66WvKjIEe21-1-NjKn82A/www.weforum.org/agenda/2019/02/a-brief-history-of-cryptography-and-why-it-matters/) — Group: #Public
-    - Annotation: Shows how long cryptography has been around and a part of human life
-- *The Spartans were also known to have developed a form of cryptography, based on wrapping parchment around a polygonal cylinder and Julius Caesar used a basic cypher to encode his messages – moving along the alphabet by a pre-agreed number of letters.* — [Updated on 2023-02-09 17:25:28](https://hyp.is/qFD6LqjIEe21_L8UOptO_Q/www.weforum.org/agenda/2019/02/a-brief-history-of-cryptography-and-why-it-matters/) — Group: #Public
-    - Annotation: Juias Ceasar's cipher is also used to this day
-- *the practice of cryptography actually goes back thousands of years. One of the earliest examples dates back to around 200 BCE and was devised by the Greek historian Polybius. In a Polybius square, letters fill out a grid of 25 spaces and each letter is identified by its coordinates in the square.* — [Updated on 2023-02-09 17:25:31](https://hyp.is/qc7TdqjIEe26KD9wS5eIbQ/www.weforum.org/agenda/2019/02/a-brief-history-of-cryptography-and-why-it-matters/) — Group: #Public
-    - Annotation: This method is still very much used today
+- Among other stipulations, the CCPA requires businesses to inform consumers regarding the types of personal data they’ll collect at the time they collect it and also how the information will be used. Consumers have the right to ask firms to disclose with whom they share the data and also opt out of their data being sold. — [Updated on 2023-03-06 18:53:11](https://hyp.is/Da2cyLx6Ee24H4cgRhh7vQ/knowledge.wharton.upenn.edu/article/data-shared-sold-whats-done/) — Group: #Public
+    - Annotation: Consumers finally getting informed on what data of theirs is being shared
+- According to the United Nations Conference on Trade and Development, 107 countries have data privacy rules in place including 66 developing nations. In the U.S., there was a “significant” increase in data privacy bills being introduced this year, with at least 25 states and Puerto Rico starting such legislation, according to the National Conference of State Legislatures. Notably, this bill count doesn’t include related legislation on topics such as cybersecurity. — [Updated on 2023-03-06 18:54:03](https://hyp.is/LEFn8Lx6Ee2tTHdz-IMyTA/knowledge.wharton.upenn.edu/article/data-shared-sold-whats-done/) — Group: #Public
+    - Annotation: More than half of the countries in the UN already have data privacy rules in existence
+- In part to head off more stringent laws, companies and computer scientists are collaborating to provide computational and business solutions to strengthen data protections while not hampering innovation and operational efficiency. Google, Facebook, Amazon, Apple and others have come forward with changes that give users more control over how they are being tracked and how their data is being used. — [Updated on 2023-03-06 18:54:43](https://hyp.is/RCBsDrx6Ee2_FCNJgdvXvQ/knowledge.wharton.upenn.edu/article/data-shared-sold-whats-done/) — Group: #Public
+    - Annotation: A compromise between user and company on data control
+- Some recent changes include the following: Google users can now choose to opt in to save their audio data collected by Google Assistant, which uses it to better recognize their voices over time. They can also delete their interactions at any time and agree to a human reviewer of the audio. This month, Facebook’s Instagram rolled out a new feature that lets users manage which third-party apps have access to their data — [Updated on 2023-03-06 18:55:18](https://hyp.is/WTy8ALx6Ee2qIEvzUxZY4Q/knowledge.wharton.upenn.edu/article/data-shared-sold-whats-done/) — Group: #Public
+    - Annotation: Some examples of ways consumers are given more power over their data
+- Every time you interact with the company, you should expect that the company is recording that information and connecting it to you.” — [Updated on 2023-03-06 18:55:53](https://hyp.is/bgmL1rx6Ee2XoRfFC6sAww/knowledge.wharton.upenn.edu/article/data-shared-sold-whats-done/) — Group: #Public
+    - Annotation: A look into how often your data is being collected
+- For example, a business that knows you’re a pet owner based on your searches for cat food could send you coupons. Companies can also use your data to improve product designs and performance — [Updated on 2023-03-06 18:56:17](https://hyp.is/fISedrx6Ee24XRst_U4svA/knowledge.wharton.upenn.edu/article/data-shared-sold-whats-done/) — Group: #Public
+    - Annotation: Not all uses of data are for malicious purposes
+- The most common way a user is tracked is through the placement of ‘cookies,’ or files that a website or web service places in your device. So when you return to the website, you don’t have to re-enter your password to log on, for example, because you’re recognized, according to Sebastian Angel, professor of computer and information science at the University of Pennsylvania. “It’s for convenience,” he says. “But because they’re putting these cookies in your devices, it now allows, [say,] Facebook to know where you’re going on the internet.” — [Updated on 2023-03-06 18:57:53](https://hyp.is/tVevcrx6Ee2DOz-hEa_hDg/knowledge.wharton.upenn.edu/article/data-shared-sold-whats-done/) — Group: #Public
+    - Annotation: cookies are a hidden way in which you can be tracked
+- Last semester, Angel taught a computer science course on how to build tools for anonymity and privacy. One idea was to build a version of Netflix that would shield your movie choices from the company and yet gives you access to the full roster of content. “We can build it,” he says. “It’s technologically feasible” to find a way to stream it to millions or billions of people. But such a system would be costly. For example, if Netflix needed 10,000 computers in their data center to serve movies to everyone, under Angel’s version, it might need 10 times more, or 100,000. — [Updated on 2023-03-06 18:59:24](https://hyp.is/68jNerx6Ee2gGV_gl6lyXw/knowledge.wharton.upenn.edu/article/data-shared-sold-whats-done/) — Group: #Public
+    - Annotation: Privacy is costly
 
 
