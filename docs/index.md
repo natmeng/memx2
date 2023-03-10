@@ -3,6 +3,7 @@ Nat's personal memex
 
 
 
+
 ## Sources[¶](https://natmeng.github.io/memx2/#sources "Permanent link")
 
 MEMEX CHECK-IN 1
@@ -22,13 +23,13 @@ MEMEX CHECK-IN 2
 
 -   [@LynskeyDorianTuring2019](https://natmeng.github.io/memx2/sources/@LynskeyDorianTuring2019/)
 
--  [Tiktok's Malicious Data Harvesting](https://natmeng.github.io/memx2/sources/Tiktok_Data/)
+-  [@ToumaRafqa2022](https://natmeng.github.io/memx2/sources/ToumaRafqa2022/)
 
--  [The monetization of our Data](https://natmeng.github.io/memx2/sources/Data_Selling/)
+-  [@GreenbergJoel2015](https://natmeng.github.io/memx2/sources/@GreenbergJoel2015/)
 
--  [The privacy concern of voice assistants](https://natmeng.github.io/memx2/sources/Alexa_Privacy/)
+-  [@WhartonStaffAlexa2020](https://natmeng.github.io/memx2/sources/@WhartonStaffAlexa2020/)
 
--  [Artificial Intelligence, a sleeping giant](https://natmeng.github.io/memx2/sources/ArtificialIntelligence/)
+-  [@MilmoDanHernAlex2023AI](https://natmeng.github.io/memx2/sources/@MilmoDanHernAlex2023AI/)
 
 
 
@@ -46,13 +47,13 @@ MEMEX CHECK-IN 2
 
 -   [@LynskeyDorianTuring2019](https://natmeng.github.io/memx2/atomic/@LynskeyDorianTuring2019/)
 
--  [Tiktok's Malicious Data Harvesting](https://natmeng.github.io/memx2/atomic/Tiktok_Data/)
+-  [@ToumaRafqa2022](https://natmeng.github.io/memx2/atomic/ToumaRafqa2022/)
 
--  [The monetization of our Data](https://natmeng.github.io/memx2/atomic/Data_Selling/)
+-  [@GreenbergJoel2015](https://natmeng.github.io/memx2/atomic/@GreenbergJoel2015/)
 
--  [The privacy concern of voice assistants](https://natmeng.github.io/memx2/atomic/Alexa_Privacy/)
+-  [@WhartonStaffAlexa2020](https://natmeng.github.io/memx2/atomic/@WhartonStaffAlexa2020/)
 
--  [Artificial Intelligence, a sleeping giant](https://natmeng.github.io/memx2/atomic/ArtificialIntelligence/)
+-  [@MilmoDanHernAlex2023AI](https://natmeng.github.io/memx2/atomic/@MilmoDanHernAlex2023AI/)
 
 
 
@@ -76,14 +77,23 @@ MEMEX CHECK-IN 2
 
 -   [@LynskeyDorianTuring2019](https://natmeng.github.io/memx2/ideas/@LynskeyDorianTuring2019/)
 
--  [Tiktok's Malicious Data Harvesting](https://natmeng.github.io/memx2/ideas/Tiktok_Data/)
+-  [@ToumaRafqa2022](https://natmeng.github.io/memx2/ideas/@ToumaRafqa2022/)
 
--  [The monetization of our Data](https://natmeng.github.io/memx2/ideas/Data_Selling/)
+-  [@GreenbergJoel2015](https://natmeng.github.io/memx2/ideas/@GreenbergJoel2015/)
 
--  [The privacy concern of voice assistants](https://natmeng.github.io/memx2/ideas/Alexa_Privacy/)
+-  [@WhartonStaffAlexa2020](https://natmeng.github.io/memx2/ideas/@WhartonStaffAlexa2020/)
 
--  [Artificial Intelligence, a sleeping giant](https://natmeng.github.io/memx2/ideas/ArtificialIntelligence/)
-
-## Map of Content[¶](https://natmeng.github.io/memx2/#map-of-content "Permanent link")
+-  [@MilmoDanHernAlex2023AI](https://natmeng.github.io/memx2/ideas/@MilmoDanHernAlex2023AI/)
 
 
+
+## Total Map of Content [¶](https://natmeng.github.io/memx2/#Total-map-of-content "Permanent link")
+![[Pasted image 20230309201408.png]]
+
+
+
+## Memex 2 Map of Content[¶](https://natmeng.github.io/memx2/#Memex-2-map-of-content "Permanent link")
+
+Map of Content for Memex 2
+
+![[Pasted image 20230309201258.png]]
