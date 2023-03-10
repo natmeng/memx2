@@ -88,12 +88,11 @@ MEMEX CHECK-IN 2
 
 
 ## Total Map of Content [¶](https://natmeng.github.io/memx2/#Total-map-of-content "Permanent link")
-![[Pasted image 20230309201408.png]]
+![[E0162A50-4D10-4AB3-A319-C8E0040D0CBC 1.jpeg]]
 
 
 
 ## Memex 2 Map of Content[¶](https://natmeng.github.io/memx2/#Memex-2-map-of-content "Permanent link")
 
-Map of Content for Memex 2
 
-![[Pasted image 20230309201258.png]]
+![[49EAF778-99B9-4A9F-859E-81599FB5BEED.jpeg]]
