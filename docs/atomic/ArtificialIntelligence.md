@@ -1,4 +1,4 @@
-tags:: #atomic projects::[](https://natmeng.github.io/memx2/atomic/ArtificialIntelligence/)
+tags:: #atomic #privacy projects::[](https://natmeng.github.io/memx2/atomic/ArtificialIntelligence/)
 
 
 - Main types of AI include Reinforcement learning, Large-Language models, and Symbolic AI

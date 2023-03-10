@@ -1,4 +1,4 @@
-tags:: #atomic projects::[](https://natmeng.github.io/memx2/atomic/Data_Selling/)
+tags:: #atomic #privacy projects::[](https://natmeng.github.io/memx2/atomic/Data_Selling/)
 
 
 

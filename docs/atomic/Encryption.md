@@ -1,4 +1,4 @@
-tags:: #atomic projects::[](https://natmeng.github.io/memx2/atomic/Encryption/)
+tags:: #atomic  #privacy #enigma projects::[](https://natmeng.github.io/memx2/atomic/Encryption/)
 
 
 - Cryptography is the method of encoding messages to secure them and make them unreadable by users without the needed qualifications

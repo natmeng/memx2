@@ -1,3 +1,4 @@
+tags:: #annotations #internetorigin
 ---
 doc_type: hypothesis-highlights
 url: >-

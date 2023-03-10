@@ -1,3 +1,4 @@
+tags:: #annotations #internetorigin #privacy
 ---
 doc_type: hypothesis-highlights
 url: >-

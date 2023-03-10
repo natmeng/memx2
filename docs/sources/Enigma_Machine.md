@@ -1,3 +1,4 @@
+tags:: #sources #index #enigma 
 ---
 
 Title: # How did the Enigma machine work? date: 2023-02-08 type: Article:

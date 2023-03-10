@@ -1,11 +1,12 @@
-
+tags:: #sources #annotations #atomic #Public #ideas #sources #index
 Nat's personal memex
 
-## Map of Content[¶](https://natmeng.github.io/memx2/#map-of-content "Permanent link")
+
 
 ## Sources[¶](https://natmeng.github.io/memx2/#sources "Permanent link")
 
 MEMEX CHECK-IN 1
+
 -   [The Enigma Machine](https://natmeng.github.io/memx2/sources/Enigma_Machine/)
 
 -   [Encryption](https://natmeng.github.io/memx2/sources/Encryption/)
@@ -18,7 +19,8 @@ MEMEX CHECK-IN 1
 
 
 MEMEX CHECK-IN 2
--   [Alan Turing, the man, the enigma](https://natmeng.github.io/memx2/sources/AlanTuring/)
+
+-   [@LynskeyDorianTuring2019](https://natmeng.github.io/memx2/sources/@LynskeyDorianTuring2019/)
 
 -  [Tiktok's Malicious Data Harvesting](https://natmeng.github.io/memx2/sources/Tiktok_Data/)
 
@@ -41,7 +43,8 @@ MEMEX CHECK-IN 1
 -   [The Internet](https://natmeng.github.io/memx2/atomic/The_Internet/)
 
 MEMEX CHECK-IN 2
--   [Alan Turing, the man, the enigma](https://natmeng.github.io/memx2/atomic/AlanTuring/)
+
+-   [@LynskeyDorianTuring2019](https://natmeng.github.io/memx2/atomic/@LynskeyDorianTuring2019/)
 
 -  [Tiktok's Malicious Data Harvesting](https://natmeng.github.io/memx2/atomic/Tiktok_Data/)
 
@@ -56,15 +59,22 @@ MEMEX CHECK-IN 2
 ## Ideas[¶](https://natmeng.github.io/memx2/#ideas "Permanent link")
 
 MEMEX CHECK-IN 1
+
 -   [The Enigma Machine](https://natmeng.github.io/memx2/ideas/Enigma/)
+
 -   [Encryption](https://natmeng.github.io/memx2/ideas/Encryption/)
+
 -   [Women in Tech](https://natmeng.github.io/memx2/ideas/Women_In_Tech/)
+
 -   [First Computer](https://natmeng.github.io/memx2/ideas/First_Computer/)
+
 -   [The Internet](https://natmeng.github.io/memx2/ideas/The_Internet/)
 
 
+
 MEMEX CHECK-IN 2
--   [Alan Turing, the man, the enigma](https://natmeng.github.io/memx2/ideas/AlanTuring/)
+
+-   [@LynskeyDorianTuring2019](https://natmeng.github.io/memx2/ideas/@LynskeyDorianTuring2019/)
 
 -  [Tiktok's Malicious Data Harvesting](https://natmeng.github.io/memx2/ideas/Tiktok_Data/)
 
@@ -73,4 +83,7 @@ MEMEX CHECK-IN 2
 -  [The privacy concern of voice assistants](https://natmeng.github.io/memx2/ideas/Alexa_Privacy/)
 
 -  [Artificial Intelligence, a sleeping giant](https://natmeng.github.io/memx2/ideas/ArtificialIntelligence/)
+
+## Map of Content[¶](https://natmeng.github.io/memx2/#map-of-content "Permanent link")
+
 

@@ -1,3 +1,4 @@
+tags:: #annotations #enigma
 ---
 doc_type: hypothesis-highlights
 url: >-

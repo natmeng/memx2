@@ -1,4 +1,4 @@
-tags:: #atomic projects::[](https://natmeng.github.io/memx2/atomic/Alexa_Privacy/)
+tags:: #atomic #privacy projects::[](https://natmeng.github.io/memx2/atomic/Alexa_Privacy/)
 
 
 - Alexa, and other voice assistant have looming privacy concerns over the assistants recording/sharing its users data 

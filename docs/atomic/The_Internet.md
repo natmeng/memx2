@@ -1,4 +1,4 @@
-tags:: #atomic projects::[](https://natmeng.github.io/memx2/atomic/The_Internet/)
+tags:: #atomic #internetorigin projects::[](https://natmeng.github.io/memx2/atomic/The_Internet/)
 
 - Started as a military communication network in the US
 - Was originaly solely a wireless network capable of communicating between the same network

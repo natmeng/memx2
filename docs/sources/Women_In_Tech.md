@@ -1,3 +1,4 @@
+tags:: #sources #index #internetorigin
 ---
 
 Title: # # Ada Lovelace, the First Tech Visionary date: 2023-02-08 type: Article:

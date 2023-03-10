@@ -1,3 +1,4 @@
+tags:: #annotations #privacy #enigma
 ---
 doc_type: hypothesis-highlights
 url: >-

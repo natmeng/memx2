@@ -1,4 +1,4 @@
-tags:: #atomic projects::[](https://natmeng.github.io/memx2/atomic/Tiktok_Data/)
+tags:: #atomic  #internetorigin #privacy projects::[](https://natmeng.github.io/memx2/atomic/Tiktok_Data/)
 
 
 - Tiktok Wokers were able to access data from app users based in Australia

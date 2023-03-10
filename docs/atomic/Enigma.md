@@ -1,4 +1,4 @@
-tags:: #atomic projects::[](https://natmeng.github.io/memx2/atomic/Enigma/)
+tags:: #atomic #enigma projects::[](https://natmeng.github.io/memx2/atomic/Enigma/)
 
 - Enigma is easy to easy to explain, but difficult to break
 - Inadvertantly led to the development of the first programmable computer

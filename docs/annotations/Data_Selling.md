@@ -1,3 +1,4 @@
+tags:: #annotations #privacy
 ---
 doc_type: hypothesis-highlights
 url: 'https://knowledge.wharton.upenn.edu/article/data-shared-sold-whats-done/'
