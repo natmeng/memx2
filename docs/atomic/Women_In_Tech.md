@@ -1,4 +1,4 @@
-tags:: #atomic #internetorigin projects::[](https://natmeng.github.io/memx2/atomic/Women_In_Tech/)
+tags:: #atomic #women #internetorigin projects::[](https://natmeng.github.io/memx2/atomic/Women_In_Tech/)
 
  
 - Ada showed interest in flying at the age of 12, and even wrote a guide named "Flyology" to record her observations

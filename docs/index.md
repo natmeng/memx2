@@ -31,6 +31,17 @@ MEMEX CHECK-IN 2
 
 -  [@MilmoDanHernAlex2023AI](https://natmeng.github.io/memx2/sources/@MilmoDanHernAlex2023AI/)
 
+MEMEX CHECK-IN 3
+
+-   [@ColakBetul2019](https://natmeng.github.io/memx2/sources/@ColakBetul2019/)
+
+-  [@CopelandJack2006](https://natmeng.github.io/memx2/sources/@CopelandJack2006/)
+
+-  [@SaumyaRishabh2021](https://natmeng.github.io/memx2/sources/@SaumyaRishabh2021/)
+
+-  [@ParksClint2023](https://natmeng.github.io/memx2/sources/@ParksClint2023/)
+
+-  [@CopelandWilliam2021](https://natmeng.github.io/memx2/sources/@CopelandWilliam2021/)
 
 
 ## Atomic[¶](https://natmeng.github.io/memx2/#atomic "Permanent link")
@@ -55,7 +66,17 @@ MEMEX CHECK-IN 2
 
 -  [@MilmoDanHernAlex2023AI](https://natmeng.github.io/memx2/atomic/@MilmoDanHernAlex2023AI/)
 
+MEMEX CHECK-IN 3
 
+-   [@ColakBetul2019](https://natmeng.github.io/memx2/atomic/@ColakBetul2019/)
+
+-  [@CopelandJack2006](https://natmeng.github.io/memx2/atomic/@CopelandJack2006/)
+
+-  [@SaumyaRishabh2021](https://natmeng.github.io/memx2/atomic/@SaumyaRishabh2021/)
+
+-  [@ParksClint2023](https://natmeng.github.io/memx2/atomic/@ParksClint2023/)
+
+-  [@CopelandWilliam2021](https://natmeng.github.io/memx2/atomic/@CopelandWilliam2021/)
 
 ## Ideas[¶](https://natmeng.github.io/memx2/#ideas "Permanent link")
 
@@ -85,6 +106,17 @@ MEMEX CHECK-IN 2
 
 -  [@MilmoDanHernAlex2023AI](https://natmeng.github.io/memx2/ideas/@MilmoDanHernAlex2023AI/)
 
+MEMEX CHECK-IN 3
+
+-   [@ColakBetul2019](https://natmeng.github.io/memx2/ideas/@ColakBetul2019/)
+
+-  [@CopelandJack2006](https://natmeng.github.io/memx2/ideas/@CopelandJack2006/)
+
+-  [@SaumyaRishabh2021](https://natmeng.github.io/memx2/ideas/@SaumyaRishabh2021/)
+
+-  [@ParksClint2023](https://natmeng.github.io/memx2/ideas/@ParksClint2023/)
+
+-  [@CopelandWilliam2021](https://natmeng.github.io/memx2/ideas/@CopelandWilliam2021/)
 
 
 ## Total Map of Content [¶](https://natmeng.github.io/memx2/#Total-map-of-content "Permanent link")
