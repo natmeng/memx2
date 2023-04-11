@@ -121,11 +121,10 @@ MEMEX CHECK-IN 3
 
 ## Total Map of Content [¶](https://natmeng.github.io/memx2/#Total-map-of-content "Permanent link")
 
-![[636D21EC-9F4D-4443-983B-13C86F9E8F96.jpeg]]
+![[E6282373-EB33-4A3D-8F1B-5D846AC636B6.jpeg]]
 
 
-## Memex 2 Map of Content[¶](https://natmeng.github.io/memx2/#Memex-2-map-of-content "Permanent link")
+## Memex 3 Map of Content[¶](https://natmeng.github.io/memx2/#Memex-2-map-of-content "Permanent link")
 
 
-
-![[0D25AD6F-9B52-4B69-B824-6215813FB747.jpeg]]
+![[BD76FB84-A418-4E7F-B08A-1E966DBDD356.jpeg]]
