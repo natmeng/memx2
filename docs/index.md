@@ -3,6 +3,15 @@ Nat's personal memex
 
 
 
+## 0_Final Journey_1[¶](https://natmeng.github.io/memx2/#0_Final Journey_1 "Permanent link")
+-   [0_Final Journey_1](https://natmeng.github.io/memx2/0_Final_Journey_1/)
+
+
+
+## 0_Final Journey_2[¶](https://natmeng.github.io/memx2/#0_Final Journey_2 "Permanent link")
+-   [0_Final Journey_2](https://natmeng.github.io/memx2/0_Final_Journey_2/)
+
+
 
 ## Sources[¶](https://natmeng.github.io/memx2/#sources "Permanent link")
 
